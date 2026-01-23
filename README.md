@@ -24,11 +24,11 @@
   <h3>Connect with me!</h3>
 
   <a href="mailto:annaclarasilvarocha15@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cdb4db&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   
   <a href="https://www.linkedin.com/in/anna-clara-rocha-3193b3333/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=6f42c1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=cdb4db&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 

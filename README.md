@@ -21,16 +21,17 @@
 ###
 
 <div align="left">
+  <h3>Connect with me!</h3>
+
+  <a href="mailto:annaclarasilvarocha15@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=003A8C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
   
-  <a href="mailto:annaclarasilvarocha15@gmail.com"> 
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/anna-clara-rocha-3193b3333" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=003A8C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="www.linkedin.com/in/anna-clara-rocha-3193b3333">
-    <img src="https://img.shields.io" alt="LinkedIn Badge"/>
-  </a>
-
+  
 </div>
-
 ###
 
 <br clear="both">
